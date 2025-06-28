@@ -38,18 +38,7 @@ This is the frontend part of the Feedback Processing System, built using **React
 
 ```
 
-feedback-frontend/
-│
-├── public/                  # Static assets
-├── src/
-│   ├── components/
-│   │   ├── FileUpload.jsx   # Upload component
-│   │   └── FileStatusList.jsx # Status display
-│   ├── App.jsx              # Main layout
-│   ├── main.jsx             # React DOM mount
-│   └── App.css              # Minimal styling
-├── package.json
-└── README.md                # You're here!
+
 
 ````
 
